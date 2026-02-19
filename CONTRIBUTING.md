@@ -87,10 +87,10 @@ Example:
 
 ```cpp
 /**
- * @file main.ino
+ * @file main.cpp
  * @brief MG995 Closed-Loop Axis Control System
- * @author YOUR_NAME
- * @date YYYY-MM-DD
+ * @author CHARVI
+ * @date 2026-02-06
  *
  * @details
  * Implements PWM-based closed-loop control for MG995 servo motor.
