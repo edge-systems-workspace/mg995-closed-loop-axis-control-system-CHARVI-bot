@@ -90,7 +90,7 @@ Example:
  * @file main.cpp
  * @brief MG995 Closed-Loop Axis Control System
  * @author CHARVI
- * @date 2026-06-02
+ * @date 2026-02-06
  *
  * @details
  * Implements PWM-based closed-loop control for MG995 servo motor.
